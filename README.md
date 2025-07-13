@@ -24,6 +24,7 @@ Uma aplicação interativa em Python que recria o comportamento da ferramenta **
 - Python 3.8+
 - pip
 - Numpy<2
+- opencv 4.5.4.58
 
 ### Instalação
 
