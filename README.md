@@ -28,6 +28,6 @@ Uma aplicação interativa em Python que recria o comportamento da ferramenta **
 ### Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/pen-tool-clone.git
-cd pen-tool-clone
+git clone https://github.com/Yuri-Kranholdt/PenTool.git
+cd PenTool
 pip install -r requirements.txt
